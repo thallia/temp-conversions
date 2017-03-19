@@ -1,2 +1,2 @@
 # temp-conversions
-a forth program that converts fahrenheit to celsius to kelvin
+A simple forth program that converts an array of fahrenheit temperatures to celsius, stores them, and converts the celsius temperatures to Kelvin. (no decimals)
