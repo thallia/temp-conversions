@@ -1,5 +1,5 @@
 ( this is a forth program that converts an array of 12 fahrenheit temperatures to celsius temperatures to Kelvin )
-( dara klinkner march 2017 )
+( dara "thallia" klinkner march 2017 )
 
 ( fahrenheit array )
 
